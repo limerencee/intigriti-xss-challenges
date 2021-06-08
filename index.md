@@ -13,7 +13,7 @@ This repository contains my personal write-ups for the XSS challenges that I sol
 
 ## Write-ups
 
-* 2021
+* [2021](2021/index.md)
     * [May](2021/May/writeup.md)
 
 ----
