@@ -7,3 +7,4 @@ has_toc: false
 ---
 
 * [May](May/writeup.md)
+* [August](Aug/writeup.md)

@@ -15,5 +15,6 @@ This repository contains my personal write-ups for the XSS challenges that I sol
 
 * [2021](2021/index.md)
     * [May](2021/May/writeup.md)
+    * [August](2021/Aug/writeup.md)
 
 ----
