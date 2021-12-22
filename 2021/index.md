@@ -11,3 +11,4 @@ has_toc: false
 * [September](Sept/writeup.md)
 * [October](Oct/writeup.md)
 * [November](Nov/writeup.md)
+* [December](Dec/writeup.md)
